@@ -1,5 +1,5 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### DATE: 13-04-2024
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -26,5 +26,19 @@ for this purpose.
 
 
 ### Output:
+~~~
+NAME : Shyam Kumar A
+REG NO : 212221230098
+~~~
+![image](https://github.com/ShyamKumar-AI-DS/WDM_EXP9/assets/93427182/10dc12c0-a0b9-4eb3-82da-cc0805e98b2c)
+
+![image](https://github.com/ShyamKumar-AI-DS/WDM_EXP9/assets/93427182/d26ab7de-1c96-4f4f-a6dc-8c12f9e17ac8)
+
+![image](https://github.com/ShyamKumar-AI-DS/WDM_EXP9/assets/93427182/ef199455-d631-4ae8-8900-be04ad7d2dbe)
+
+![image](https://github.com/ShyamKumar-AI-DS/WDM_EXP9/assets/93427182/879abbcc-b03b-4e20-b7ec-3454d4740837)
+
 
 ### Result:
+Thus the implement preprocessing technique on Twitter Data using Rapidminer is executed successful.
+
